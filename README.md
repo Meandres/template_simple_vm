@@ -1,2 +1,3 @@
-# template_simple_vm
-Template to build and run VMs using Nix, Qemu and Just
+# Simple VM template
+
+This repository defines a simple (minimal) Linux VM built with Nix and ran via just commands with qemu.
